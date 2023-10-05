@@ -15,7 +15,7 @@
 
 //========================================================================
 // Author: Jacob Berry
-// Email: jberry19@csu.fullerton.edu
+// Email: jacobberry777@gmail.com
 // Class: CPSC 240-03
 // Assignment 3: Sort By Pointers
 //========================================================================
